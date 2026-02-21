@@ -18,14 +18,6 @@ SurakshaPath is a web-based safety application designed to ensure the security o
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
-
-https://github.com/user-attachments/assets/1f23b132-25cc-42b3-9a5a-dd5e34f1a365
-
-
-
-https://github.com/user-attachments/assets/cb4be607-4b91-4c71-bb4e-324267e3a97d
-
-
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - A Google Cloud Project with **Maps JavaScript API** enabled.
 - A Twilio Account (optional, for backend SMS features).
@@ -63,12 +55,17 @@ https://github.com/user-attachments/assets/cb4be607-4b91-4c71-bb4e-324267e3a97d
    Open `index.html` in your browser.
    *Note: For geolocation and audio recording to work on mobile devices, the site must be served over HTTPS or `localhost`.*
 
+Overview Execution
+
+https://github.com/user-attachments/assets/cb4be607-4b91-4c71-bb4e-324267e3a97d
+
 ## Team Details
-*   **Team Name:** [Insert Team Name Here]
-*   **Member 1:** [Name] - [Role]
-*   **Member 2:** [Name] - [Role]
-*   **Member 3:** [Name] - [Role]
-*   **Member 4:** [Name] - [Role]
+*   **Team Name:** TA0082
+*   **Member 1:** Karina Kaur
+*   **Member 2:**Bhakti Pandhare
+*   **Member 3:**Gauri Narlawar
+*   **Member 4:** Divya Bagde
+*   **Member 5:** Bhumi Gupta
 
 ---
 *Developed for PCE Hackathon*
