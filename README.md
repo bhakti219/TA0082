@@ -18,6 +18,14 @@ SurakshaPath is a web-based safety application designed to ensure the security o
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
+
+https://github.com/user-attachments/assets/1f23b132-25cc-42b3-9a5a-dd5e34f1a365
+
+
+
+https://github.com/user-attachments/assets/cb4be607-4b91-4c71-bb4e-324267e3a97d
+
+
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - A Google Cloud Project with **Maps JavaScript API** enabled.
 - A Twilio Account (optional, for backend SMS features).
